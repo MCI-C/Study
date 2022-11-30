@@ -13,6 +13,7 @@
 - Shiny was easy to deploy R project 
 - Plotly was fast draw and enable complex selection of data 
 - DT allow to display on raw data
+- Shiny code was folk from Tilburg Science Hub 
 # **Insight**
 - This data set shows that the pandemic causes so much death and each US state has a different response to dealing with the diseases. 
 - This data help to understand the impacts of the pandemic and how to prevent the further spread of disease.
